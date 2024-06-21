@@ -6,7 +6,7 @@ We can have a bit of fun with this repo, knowing that we can always reset it to 
 
 As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
 
-* git@github.com:Saied345/FirstRepo
+* git@github.com:Saied345/FirstRepo/tree/main/hellogitworld-master
 * git://github.com/matthewmccullough/hellogitworld.git
 * https://matthewmccullough@github.com/matthewmccullough/hellogitworld.git
 
