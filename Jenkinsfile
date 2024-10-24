@@ -40,6 +40,6 @@ try{
         something
     }
 } finally {
-    something
+     // Add something else
 }
 }
